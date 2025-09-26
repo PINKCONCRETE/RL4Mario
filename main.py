@@ -8,8 +8,6 @@ import matplotlib.pyplot as plt
 env = gym_super_mario_bros.make('SuperMarioBros-4-2-v0')
 env = JoypadSpace(env, SIMPLE_MOVEMENT)
 
-print(nes_py)
-
 done = True
 for step in range(100000):
     if done:
