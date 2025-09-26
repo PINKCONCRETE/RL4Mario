@@ -1,4 +1,7 @@
 #python==3.8
+torch==2.4.1+cu124
+torchvision==0.19.1+cu124
 nes-py==8.2.1
 gym==0.23.0
 gym-super-mario-bros==7.4.0
+stable_baselines3==2.4.1
