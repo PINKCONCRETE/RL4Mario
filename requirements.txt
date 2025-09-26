@@ -1,0 +1,5 @@
+gym
+nes-py
+gym-super-mario-bros
+stable_baselines3
+Optuna
